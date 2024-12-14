@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Nsu.HackathonProblem.Solution/1.0.0": {
+        "dependencies": {
+          "Nsu.HackathonProblem.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Nsu.HackathonProblem.Solution.dll": {}
+        }
+      },
+      "Nsu.HackathonProblem.Contracts/1.0.0": {
+        "runtime": {
+          "Nsu.HackathonProblem.Contracts.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nsu.HackathonProblem.Solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nsu.HackathonProblem.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

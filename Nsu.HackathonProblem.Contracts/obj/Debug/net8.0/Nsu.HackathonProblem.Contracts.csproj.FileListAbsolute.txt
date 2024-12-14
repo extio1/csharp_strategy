@@ -1,0 +1,12 @@
+/media/extio1/Data/edu/CSHARP_2024_NSU/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/bin/Debug/net8.0/Nsu.HackathonProblem.Contracts.deps.json
+/media/extio1/Data/edu/CSHARP_2024_NSU/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/bin/Debug/net8.0/Nsu.HackathonProblem.Contracts.dll
+/media/extio1/Data/edu/CSHARP_2024_NSU/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/bin/Debug/net8.0/Nsu.HackathonProblem.Contracts.pdb
+/media/extio1/Data/edu/CSHARP_2024_NSU/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/obj/Debug/net8.0/Nsu.HackathonProblem.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/media/extio1/Data/edu/CSHARP_2024_NSU/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/obj/Debug/net8.0/Nsu.HackathonProblem.Contracts.AssemblyInfoInputs.cache
+/media/extio1/Data/edu/CSHARP_2024_NSU/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/obj/Debug/net8.0/Nsu.HackathonProblem.Contracts.AssemblyInfo.cs
+/media/extio1/Data/edu/CSHARP_2024_NSU/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/obj/Debug/net8.0/Nsu.HackathonProblem.Contracts.csproj.CoreCompileInputs.cache
+/media/extio1/Data/edu/CSHARP_2024_NSU/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/obj/Debug/net8.0/Nsu.HackathonProblem.Contracts.sourcelink.json
+/media/extio1/Data/edu/CSHARP_2024_NSU/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/obj/Debug/net8.0/Nsu.HackathonProblem.Contracts.dll
+/media/extio1/Data/edu/CSHARP_2024_NSU/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/obj/Debug/net8.0/refint/Nsu.HackathonProblem.Contracts.dll
+/media/extio1/Data/edu/CSHARP_2024_NSU/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/obj/Debug/net8.0/Nsu.HackathonProblem.Contracts.pdb
+/media/extio1/Data/edu/CSHARP_2024_NSU/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/obj/Debug/net8.0/ref/Nsu.HackathonProblem.Contracts.dll
