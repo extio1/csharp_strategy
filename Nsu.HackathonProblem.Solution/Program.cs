@@ -18,7 +18,7 @@ class Program
             var wishlistGenerator = new WishlistGenerator();
 
             var scores = new List<double>();
-            // for(int i = 0; i < 1000; i++){
+            for(int i = 0; i < 1000; i++){
                 var juniorsWishlists = wishlistGenerator.GenerateWishlists(juniors);
                 var teamLeadsWishlists = wishlistGenerator.GenerateWishlists(teamleads);
 
@@ -26,7 +26,7 @@ class Program
                 var teams = strategy.BuildTeams(teamleads, juniors, teamLeadsWishlists, juniorsWishlists);
                 
                 scores.Add(Harmonic.CalculateForTeams(teams, teamLeadsWishlists, juniorsWishlists));
-            // }
+            }
 
             Console.WriteLine($"Result harmonic score: {scores.Average()}");
         }
